@@ -1,0 +1,3 @@
+{
+    "exec":"npx -y pagefind --site root --serve"
+}
